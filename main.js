@@ -3,8 +3,17 @@
  ******************/
 
 
- 
-
+const myFirstName='Jumi'
+const myLastName ='Sanchez'
+const myBestFriend = 'Sir Charles'
+const mySentence = 'Sir Charles is grumpy'
+const myFavoriteNum = 9
+const myMentalAge = 30
+const myHeight = 62
+const myFavoriteYear = 2008
+const mySum = 3 + 1943
+const myProduct = 232 * 43 / 2+4
+const myHeightAndAge = myMentalAge + myHeight
 
 /*********************************************************************************************************************
 
