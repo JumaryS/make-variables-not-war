@@ -3,10 +3,10 @@
  ******************/
 
 
-const myFirstName='Jumi'
+const myFirstName='Jumary'
 const myLastName ='Sanchez'
 const myBestFriend = 'Sir Charles'
-const mySentence = 'Sir Charles is grumpy'
+const mySentence = 'Sir Charles is needy'
 const myFavoriteNum = 9
 const myMentalAge = 30
 const myHeight = 62
